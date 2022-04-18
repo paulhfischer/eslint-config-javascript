@@ -11,7 +11,7 @@
     - eslint-config-prettier@8.5.0
     - eslint-plugin-html@6.2.0
     - eslint-plugin-import@2.26.0
-    - eslint-plugin-jinja2-processor@1.1.0
+    - eslint-plugin-jinja2-processor@1.2.0
     - eslint-plugin-prettier@4.0.0
     - prettier@2.6.2
   types:
