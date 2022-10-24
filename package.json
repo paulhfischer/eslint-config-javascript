@@ -1,6 +1,6 @@
 {
     "name": "@paulhfischer/eslint-config-javascript",
-    "version": "1.12.5",
+    "version": "1.12.6",
     "description": "ESLint-config for JavaScript projects.",
     "main": "index.js",
     "author": "Paul Fischer <paul.fischer@mailbox.org>",
