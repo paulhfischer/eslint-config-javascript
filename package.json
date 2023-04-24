@@ -1,6 +1,6 @@
 {
     "name": "@paulhfischer/eslint-config-javascript",
-    "version": "1.16.2",
+    "version": "1.17.0",
     "description": "ESLint-config for JavaScript projects.",
     "main": "index.js",
     "author": "Paul Fischer <paul.fischer@mailbox.org>",
@@ -19,7 +19,7 @@
     },
     "prettier": "@paulhfischer/prettier-config",
     "peerDependencies": {
-        "@paulhfischer/prettier-config": "1.7.0",
+        "@paulhfischer/prettier-config": "1.8.0",
         "eslint-config-airbnb-base": "15.0.0",
         "eslint-config-prettier": "8.8.0",
         "eslint-plugin-html": "7.1.0",
