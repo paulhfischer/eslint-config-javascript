@@ -1,6 +1,6 @@
 {
     "name": "@paulhfischer/eslint-config-javascript",
-    "version": "1.21.0",
+    "version": "1.22.0",
     "description": "ESLint-config for JavaScript projects.",
     "main": "index.js",
     "author": "Paul Fischer <paul.fischer@mailbox.org>",
@@ -22,7 +22,7 @@
         "@paulhfischer/prettier-config": "1.13.0",
         "eslint-config-airbnb-base": "15.0.0",
         "eslint-config-prettier": "9.1.0",
-        "eslint-plugin-html": "7.1.0",
+        "eslint-plugin-html": "8.0.0",
         "eslint-plugin-jinja2-processor": "1.2.0",
         "eslint-plugin-prettier": "5.1.3"
     },
