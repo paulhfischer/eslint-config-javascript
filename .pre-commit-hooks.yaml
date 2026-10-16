@@ -4,17 +4,19 @@
   language: node
   args:
     - '--fix'
+    - '--no-warn-ignored'
   additional_dependencies:
-    - '@paulhfischer/prettier-config@1.24.0'
-    - eslint@8.57.1
-    - eslint-config-airbnb-base@15.0.0
+    - '@eslint/js@10.0.1'
+    - '@paulhfischer/prettier-config@2.0.0'
+    - eslint@10.12.0
     - eslint-config-prettier@10.1.8
     - eslint-plugin-html@8.2.1
-    - eslint-plugin-import@2.32.0
-    - eslint-plugin-jinja2-processor@1.2.0
-    - eslint-plugin-prettier@5.5.6
+    - eslint-plugin-import-x@4.17.1
+    - eslint-plugin-jinja2-processor@2.0.0
+    - eslint-plugin-prettier@5.5.7
+    - globals@17.13.0
     - prettier@3.9.10
   types:
     - file
-  files: \.(js|html|php)$
-  exclude: (^node_modules|\.min\.js$)
+  files: \.(js|mjs|cjs|html|php)$
+  exclude: ((^|/)node_modules/|\.min\.js$)
