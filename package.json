@@ -1,6 +1,6 @@
 {
     "name": "@paulhfischer/eslint-config-javascript",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "description": "ESLint-config for JavaScript projects.",
     "type": "module",
     "main": "index.js",
@@ -14,7 +14,7 @@
     },
     "peerDependencies": {
         "@eslint/js": "10.0.1",
-        "@paulhfischer/prettier-config": "2.0.0",
+        "@paulhfischer/prettier-config": "2.1.0",
         "eslint": "10.13.0",
         "eslint-config-prettier": "10.1.8",
         "eslint-plugin-html": "8.2.1",
